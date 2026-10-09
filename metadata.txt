@@ -1,0 +1,16 @@
+[general]
+name=Query Builder
+qgisMinimumVersion=3.16
+qgisMaximumVersion=4.99
+version=1.1.1
+author=Anand Maurya Sumo
+email=MAURYAANAND2015@GMAIL.COM
+description=Build QGIS expressions using layer fields and single or multiple values.
+about=Query Builder creates attribute expressions from a selected vector layer, field, condition, and one or multiple values. It can validate and copy expressions, select matching features, and apply or clear layer filters.
+category=Vector
+tags=query,expression,filter,selection,attributes,vector
+homepage=https://github.com/anandmauryasumo-star/Query-Builder
+repository=https://github.com/anandmauryasumo-star/Query-Builder
+tracker=https://github.com/anandmauryasumo-star/Query-Builder/issues
+experimental=False
+deprecated=False
